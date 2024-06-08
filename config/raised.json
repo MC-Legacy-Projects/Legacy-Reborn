@@ -1,0 +1,11 @@
+{
+  "value": {
+    "hud": 30,
+    "chat": 30
+  },
+  "toggle": {
+    "share": false,
+    "support": false,
+    "sync": true
+  }
+}

@@ -1,0 +1,13 @@
+name = "Golden Age Combat"
+filename = "GoldenAgeCombat-v20.4.2-1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U5I04KQ6/versions/F99U02Wx/GoldenAgeCombat-v20.4.2-1.20.4-Fabric.jar"
+hash-format = "sha1"
+hash = "43fa4c8874913fdafab8a7a00fcf7396024b6519"
+
+[update]
+[update.modrinth]
+mod-id = "U5I04KQ6"
+version = "F99U02Wx"

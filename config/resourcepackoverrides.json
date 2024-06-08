@@ -1,0 +1,38 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "resources/resources"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "fixed_position": true
+    },
+    "fabric": {
+      "hidden": true
+    },
+    "programmer_art": {
+      "hidden": true
+    },
+    "legacy_waters": {
+      "hidden": true
+    },
+    "console_aspects": {
+      "hidden": true
+    },
+    "high_contrast": {
+      "hidden": true
+    },
+    "resources/resources": {
+      "hidden": true
+    },
+    "server": {
+      "default_position": "TOP",
+      "force_compatible": true,
+      "fixed_position": false
+    }
+  }
+}

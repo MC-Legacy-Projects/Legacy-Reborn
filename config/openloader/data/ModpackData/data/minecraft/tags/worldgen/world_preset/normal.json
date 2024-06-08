@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:normal",
+    "minecraft:limited_small",
+    "minecraft:limited_medium",
+    "minecraft:limited_large",
+    "minecraft:infinite"
+  ]
+}

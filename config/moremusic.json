@@ -1,0 +1,18 @@
+{
+  "menuDelays": {
+    "minDelay": 20,
+    "maxDelay": 40
+  },
+  "normalGameplayDelays": {
+    "minDelay": 20,
+    "maxDelay": 40
+  },
+  "creativeGameplayDelays": {
+    "minDelay": 20,
+    "maxDelay": 40
+  },
+  "endGameplayDelays": {
+    "minDelay": 20,
+    "maxDelay": 40
+  }
+}

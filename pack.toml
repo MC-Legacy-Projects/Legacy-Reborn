@@ -1,0 +1,16 @@
+name = "Legacy Reborn"
+author = "Permdog99"
+version = "1.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05869af5001e81a916404cb892207d7105b65744e26f28bbe07ecf673fc49535"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"
+
+[options]
+acceptable-game-versions = ["1.20.1"]
