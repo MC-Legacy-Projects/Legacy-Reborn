@@ -24,13 +24,13 @@ legacyItemTooltips:true
 displayHUD:true
 displayHand:true
 cursorMode:0
-hudScale:1
+hudScale:2
 legacyCreativeTab:true
 animatedCharacter:true
 classicCrafting:false
 vanillaTabs:false
 displayLegacyGamma:true
-legacyGamma:0.5022522522522522
+legacyGamma:0.5
 smoothAnimatedCharacter:false
 smoothMovement:true
 legacyCreativeBlockPlacing:true
@@ -83,7 +83,7 @@ resourcePacks:["fabric","programmer_art","resources/resources"]
 incompatibleResourcePacks:[]
 chatVisibility:0
 chatOpacity:1.0
-chatLineSpacing:0.7518909534534534
+chatLineSpacing:1.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false

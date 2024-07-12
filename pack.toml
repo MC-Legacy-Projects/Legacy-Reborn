@@ -1,12 +1,12 @@
 name = "Legacy Reborn"
 author = "Permdog99 & Agari"
-version = "1.2.0"
+version = "TU1-1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "82e9e1024b6354d328458d67bf68835a15d36d668be5f6b26222f40003e5a599"
+hash = "b379a6d6747eb670989e19d043fd5bcd3ec8b52b4a2b1d81a2e90c21653bd466"
 
 [versions]
 fabric = "0.15.11"

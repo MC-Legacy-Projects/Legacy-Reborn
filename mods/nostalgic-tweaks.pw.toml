@@ -1,0 +1,13 @@
+name = "Nostalgic Tweaks"
+filename = "NostalgicTweaks-mc1.20.4-Fabric-2.0.0-beta.900.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l1rj36Ob/versions/HwdQH4O8/NostalgicTweaks-mc1.20.4-Fabric-2.0.0-beta.900.jar"
+hash-format = "sha1"
+hash = "99f44c97222e1a9ec7544f23f708756ab6dbe9bf"
+
+[update]
+[update.modrinth]
+mod-id = "l1rj36Ob"
+version = "HwdQH4O8"
