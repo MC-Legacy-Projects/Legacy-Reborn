@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_axe"
+    },
+    "title": "MOAR Tools",
+    "description": "Construct one type of each tool.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "minecraft:minecraft/root",
+  "criteria": {
+    "axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_axe",
+              "minecraft:golden_axe",
+              "minecraft:diamond_axe",
+              "minecraft:stone_axe",
+              "minecraft:wooden_axe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_shovel",
+              "minecraft:golden_shovel",
+              "minecraft:diamond_shovel",
+              "minecraft:stone_shovel",
+              "minecraft:wooden_shovel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_pickaxe",
+              "minecraft:golden_pickaxe",
+              "minecraft:diamond_pickaxe",
+              "minecraft:stone_pickaxe",
+              "minecraft:wooden_pickaxe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:iron_hoe",
+              "minecraft:golden_hoe",
+              "minecraft:diamond_hoe",
+              "minecraft:stone_hoe",
+              "minecraft:wooden_hoe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

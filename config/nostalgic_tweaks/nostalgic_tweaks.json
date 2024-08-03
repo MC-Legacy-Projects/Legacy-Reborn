@@ -101,7 +101,12 @@
     },
     "disableAllOffset": true,
     "oldMissingTexture": "MODERN",
-    "oldBlockOutlines": {
+    "applyFullBlockCollisions": true,
+    "fullBlockCollisions": {
+      "items": [],
+      "disabled": false
+    },
+    "fullBlockOutlines": {
       "items": [
         "minecraft:cobblestone_stairs",
         "minecraft:cobblestone_stairs*",
@@ -122,11 +127,6 @@
       ],
       "disabled": false
     },
-    "fullBlockOutlineVoxels": {
-      "items": [],
-      "disabled": false
-    },
-    "applyBlockOutlineVoxels": true,
     "blockOutlineColor": "#00000066",
     "blockOutlineThickness": 3.25,
     "oldBlockOverlay": false,
@@ -220,7 +220,7 @@
     "showDebugLightData": false,
     "showDebugFacingData": false,
     "showDebugTargetData": false,
-    "showDebugBiomeData": false,
+    "showDebugBiomeData": true,
     "oldInventory": false,
     "inventoryBook": "SMALL",
     "inventoryShield": "MIDDLE_RIGHT",
@@ -307,7 +307,7 @@
     "oldNameTags": false,
     "supporterTags": true,
     "disableLightFlicker": true,
-    "invertedBlockLighting": true,
+    "invertedBlockLighting": false,
     "oldLeavesLighting": true,
     "oldWaterLighting": true,
     "chestLightBlock": true,
@@ -403,7 +403,7 @@
     "disableMonsterEnchantSpawn": true,
     "piglinOnlyGoldSwordSpawn": true,
     "monsterSpawnCap": 90,
-    "animalSpawnCap": 25,
+    "animalSpawnCap": 10,
     "oldAnimalSpawning": true,
     "disableBabyAnimalSpawning": true,
     "disableAnimalBreeding": true,
@@ -455,6 +455,8 @@
     "instantAir": true,
     "disableSwim": true,
     "cartBoosting": false,
+    "cartRiderTurning": false,
+    "cartSafeRiderTurning": false,
     "disableBoatBusyHands": true,
     "oldBoatWaterLift": true,
     "oldBoatDrops": true,

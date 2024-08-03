@@ -1,5 +1,5 @@
 {
-  "defaultSigningMode": "PROMPT",
+  "defaultSigningMode": "NEVER",
   "enableMod": true,
   "showNCRButton": false,
   "showReloadButton": false,

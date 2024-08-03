@@ -7,6 +7,6 @@
     "enabled": true,
     "additionalFolders": []
   },
-  "appendSourceToPacks": true,
+  "appendSourceToPacks": false,
   "loadResourcePackData": true
 }

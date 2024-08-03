@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bone"
+    },
+    "title": "Leader Of The Pack",
+    "description": "Befriend five wolves.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "minecraft:minecraft/root",
+  "criteria": {
+    "wolf": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+	  "type": "minecraft:wolf"
+	},
+        "entity": {
+	  "type": "minecraft:wolf"
+	},
+        "entity": {
+	  "type": "minecraft:wolf"
+	},
+        "entity": {
+	  "type": "minecraft:wolf"
+	},
+        "entity": {
+	  "type": "minecraft:wolf"
+	}
+      }
+    }
+  }
+}

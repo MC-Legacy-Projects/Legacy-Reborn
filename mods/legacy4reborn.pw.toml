@@ -1,0 +1,13 @@
+name = "Legacy4Reborn"
+filename = "Legacy4J-1.20.4-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sum5MOzH/versions/7aVNuevY/Legacy4J-1.20.4-1.7.2.jar"
+hash-format = "sha1"
+hash = "2210155900114cda46516e323c38893253f4dfff"
+
+[update]
+[update.modrinth]
+mod-id = "sum5MOzH"
+version = "7aVNuevY"

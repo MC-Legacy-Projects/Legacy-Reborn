@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "title": "Time to Mine!",
+    "description": "Use Planks and Sticks to make a Pickaxe.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "minecraft:minecraft/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:wooden_pickaxe",
+              "minecraft:diamond_pickaxe",
+              "minecraft:golden_pickaxe",
+              "minecraft:iron_pickaxe",
+              "minecraft:netherite_pickaxe",
+              "minecraft:stone_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

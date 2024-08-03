@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_log"
+    },
+    "title": "Getting Wood",
+    "description": "Punch a tree until a block of Wood pops out.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "minecraft:minecraft/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ 
+	      "minecraft:oak_log",
+	      "minecraft:birch_log",
+	      "minecraft:spruce_log"
+	    ]
+          }
+        ]
+      }
+    }
+  }
+}
