@@ -7,5 +7,10 @@
     "separation": 0,
     "spacing": 1
   },
-  "structures": []
+  "structures": [
+    {
+      "structure": "minecraft:mineshaft",
+      "weight": 1
+    }
+  ]
 }

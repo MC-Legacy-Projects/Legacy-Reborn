@@ -58,7 +58,7 @@ hash = "7bae853be22d21006b97c1744b5132e6af0089f6e81e4dc720f2154f13f7c448"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "8fb752cf46480c2fcfd2bb89d5836384e492afeb122cb4cd4499a6d68ff8b374"
+hash = "d18d2d0c4112238e398ef443218042f4a4432c9fc9f760b9ab71e19542e80750"
 
 [[files]]
 file = "config/helditemtooltips-client.toml"
@@ -66,11 +66,11 @@ hash = "027befbf2dddf1db90f171a19b4f63b27aa5dc9f9b5a7ab1eb2348de49f6e2f1"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "4e47b87439c67f368e30415e2780041588342c8a7638493edb15f92142207a27"
+hash = "cbcc5b78ffd537e2cc1b1b871ea9cb30c5abe22514827a4f8b3963a539d0a1e3"
 
 [[files]]
 file = "config/legacy-mipmaps.json5"
-hash = "7767a8d2909bf46b624ec56660c659af7a4b9a26039a6596b1c6ae38fe5f0ad4"
+hash = "490f8145cafd37e55ddc1c8a4faaf8ac7bf70b9fa2948425d61ac3e0564e64ca"
 
 [[files]]
 file = "config/lithium.properties"
@@ -90,7 +90,7 @@ hash = "ecb328180f67d2450a40ce4ebe6f9d946ce4dd0d045a592cfaa633983ec94204"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "72b5d39e0b1bacd9a15bdf9a77fe0beb2d67ed20ea9baa83386de36235a5cbe4"
+hash = "e3e3a36abfa4d66200ca8203cbcdb122665d3ffab3ae27ead419e5ae9ebfce3b"
 
 [[files]]
 file = "config/oldpotions.toml"
@@ -669,6 +669,426 @@ file = "config/openloader/data/Reborn Data/data/minecraft/recipes/yellow_dye_fro
 hash = "b6915f25cb751a0262f3b333d188cbf696d3cfb19e93ff7253edbf841a326a6d"
 
 [[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/desert/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/plains/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/savannah/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/snowy/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/structures/village/taiga/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/tags/blocks/convertable_to_mud.json"
 hash = "15eac2527cafc3f3bf0d59d5d33e8e5845c8e52b51e03a56b8f891aa47b806f1"
 
@@ -1121,6 +1541,34 @@ file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/placed_featur
 hash = "d2130624913c7572b22a3bf51c5f54db050c1f08cc6ce1fa8b76c793bec29773"
 
 [[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/mineshaft.json"
+hash = "6a57c6185b33989ec410b747ab5639887cab50c11393cdd53d40de5a155abc5b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/stronghold.json"
+hash = "74ed40c301aa98870861fc12376200f2642b120064a099648d5faa9fc84b7026"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/village_desert.json"
+hash = "1fcf0daca881cb72e73732e6a0ef0896a43ae2f645c89cfe38e54cb4fb676958"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/village_plains.json"
+hash = "c5b788a70188e88e787954ee2888b3c900223dfa13d0cc2ae275da5a928f8700"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/village_savanna.json"
+hash = "ef471c361849afde7e019eb4a0d57809ad3ea8f8da21a66d63f09b9084d6550e"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/village_snowy.json"
+hash = "bf9cfa1ead56f7326377b8c498e7cdb5f4147a968438b571d05ab89afd732dc3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure/village_taiga.json"
+hash = "b3fa584565cad3c33b49ef678b618fba815e41d22cc0504923a6f28c686d9d80"
+
+[[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/ancient_cities.json"
 hash = "4fa7806392a13e78969578d1c9f2d6080c5fc78debb8f4655e2af3387f2be6a0"
 
@@ -1146,7 +1594,7 @@ hash = "7f6445650bfc85f0cb8caa5cabac93aab4da14dc2ee3f628f169af3c899610e2"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/mineshafts.json"
-hash = "97149b749c6014e2ee18695b6f8d4d44eb62c09a6c81a8ec5b629abf3f9d05e2"
+hash = "8a489c0deea1023c7fba8b62adcbd8ad40835349fd7b19d5b7762f9c8babaae8"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/nether_complexes.json"
@@ -1174,7 +1622,7 @@ hash = "3f5ed6bfa15276cbe7849e4626161d0dc5e1689313633e4a25320e0727bf7dd5"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/strongholds.json"
-hash = "e71749053c10c71a2c97b922c078762bfd004fbc4bf9e6fbf4745ba757ce20e6"
+hash = "efac2e2976f903b89fe9532e7c8b297bd61aae3a16e92d9374b279b7f3109b95"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/swamp_huts.json"
@@ -1185,16 +1633,108 @@ file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set
 hash = "95462a95808fe80ab7b0fcc5dca6fe4d0a3512c9efc465f38bcdd7152bcf63bb"
 
 [[files]]
-file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/villages.json"
-hash = "55e7584f55311ab35126d2b0475497885326cf15b7ed07f438d250bd84d12d9b"
-
-[[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/structure_set/woodland_mansions.json"
 hash = "2babd1d8a093e2df6ee4ab070e2270681393c4b2fff87525d1eac1c3d5840b82"
 
 [[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/desert/houses.json"
+hash = "6c12b5b5e0785da544026ef254cd1a43c073bf2f67bb5b07dca729d1dcbd4a0e"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/desert/streets.json"
+hash = "e3ef095a6b24fc2c39dfdb09d4fa49d7ec6b65c415593671e317eca30045c70f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
+hash = "4ca53692bb873e9e9684b74e264106280a4fab34d5ab234fff8dcab3805e0f71"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/desert/villagers.json"
+hash = "355166c4a098193eb9c9d895d8e8ee62a238ed0ee3065672f53ab55ed899b195"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/desert/well_bottom.json"
+hash = "67d30cc5a91b13648320563f2de2c660e82abb178de715c8de14364e4b40057d"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/plains/houses.json"
+hash = "3d31135419343c0e97a9ab4433a9c97c43f2788a1ddbdaeb2ddfa519c674f911"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/plains/streets.json"
+hash = "6c44d7e5381c4e09534788e3ff8ad27a12714600d0de019377e6f0504bc55726"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
+hash = "6064e7144a44274a0875f067eaf254868215385a673faffb18023533f38761b6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/plains/villagers.json"
+hash = "78124cb1c75a60ce83aaf7a482fbdbdde10e66d20c9ecd4f948faa001ffd942f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/plains/well_bottom.json"
+hash = "060172854424ac2b24e59260c747d6efaf52a18ee1f4f8171f006364c76e7226"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/savanna/houses.json"
+hash = "fe4661ff263fe6012fa7d0df655fd47ca12103a392af0fc3c1a1cfe04da5f289"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/savanna/streets.json"
+hash = "cc40deef0b2f0eab24aa066ac2d38ac115cfd508cf069b1c01f1aa69d69762b1"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
+hash = "5fec78689b59c0ecaed672372708fc5a1a2374fe0f9ab048908cd423f8fb967b"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/savanna/villagers.json"
+hash = "7972030d0a86a33c66bb9669fe4e2192fa377ff8b4323ed294eaa110ab9e71f6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/savanna/well_bottom.json"
+hash = "f370ea5f07d7b4645070c992b1be7123d826425a5b6dfb2ae7f52bee964773ff"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/snowy/houses.json"
+hash = "766e7521411094eb6e2c1b5662aa00a03cbe848c3dd55019cc3c4508d30b27d6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/snowy/streets.json"
+hash = "cb0ef2ce3ef9db7994b496a8ab938dfa2e3daefde12e1393332a311e07a87fd0"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/snowy/town_centers.json"
+hash = "0daeae69b79455ca6a9abd6a522d0ce1a931fe69784b09cbbd6522568a1cac82"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/snowy/well_bottom.json"
+hash = "6ce707b3b0a02bd5c5ca3e3e4b24bbfdd34eedc85300d21eb7eadc864ad32ab6"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/taiga/houses.json"
+hash = "9df200a0fcb5c37b8a1b47f9dde8e9d7c1d1ac4be900e8137a239162645e3a73"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/taiga/streets.json"
+hash = "3c4ff9dbe79431e22c58f0455ab3ab078bebe28a18cfcb27094f271ad4f6171f"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
+hash = "ae3e8530181115fcd680bd4aade9fbf17792574a0b8db4c27d203f92f891802e"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/taiga/villagers.json"
+hash = "1306331fa6d178a725d2ff376be811a2ddc912abaa2b2d38379ab58a23725618"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/template_pool/village/taiga/well_bottom.json"
+hash = "897c8ec758f58fef39311099d3c525c87ba22b85863016053c4f73b4b6beb731"
+
+[[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/world_preset/infinite.json"
-hash = "46aa222f1a579d4d95417ff413219665ab9057855416924162dbe684cf542af4"
+hash = "05f7609d9f84108e82548c0edcc9a3290d27be0f9c620c57092b2cbd782dd5db"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/world_preset/limited.json"
@@ -1202,19 +1742,19 @@ hash = "5aee61b2be90cf5b0db774a2478375376b789dc2c8e843fb00b26f22ba1976dc"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/world_preset/limited_large.json"
-hash = "59ee0fc5e01f65643fa0654bd914b74475a0cd7bd6cf2f1fb2ff81df846d0d63"
+hash = "af7022ac829b94a1927b27d0bc4d9414c8b63eeb0571199c30229163aa1e2718"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/world_preset/limited_medium.json"
-hash = "5dd010786a926b4c7d9c7c1064e066a942411c496f6362c1743d9c6a796d2c53"
+hash = "20dfac17ec208e77f1970f0d4d470ad8deab1fa4299b96e368e291a0c003a476"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/world_preset/limited_small.json"
-hash = "df8c9ae355b61fe5d578f34528fdb703884c145497b625d4b50c152740b52cea"
+hash = "863a283617712d043588049e98e1ba9eeed14d3752cf505d65dac9d82d875f9d"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/minecraft/worldgen/world_preset/normal.json"
-hash = "54d42601b78d65fcb3aade202942669cd45eb3cc92fcef3fdb9c251232ed3755"
+hash = "d30ad1ae5804387378251d4c3831711a815529857a9490b15a1b00cea47066f3"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/modern_beta/tags/blocks/overworld_carver_replaceables.json"
@@ -1547,6 +2087,22 @@ hash = "9db1b1603c0fcf8ee83891a6564331a97de0688028ff6d308caa79334124772b"
 [[files]]
 file = "config/openloader/data/Reborn Data/data/modern_beta/worldgen/biome/beta_warm_ocean.json"
 hash = "697458e2f77b3145418d085de67240400da9488d7e893be2d549a153844ab3f3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/modern_beta/worldgen/biome/late_beta_ice_plains.json"
+hash = "6390af918dccb8ef76271c81ac5240bb2325d649d9058656b3ae6b355e983e24"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/modern_beta/worldgen/biome/late_beta_plains.json"
+hash = "a15af07e1e8dc11ba47e460edf2d51f93bf49320548b2892b704fb10701ddcf3"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/modern_beta/worldgen/biome/late_beta_swampland.json"
+hash = "e7fb23221d476c9974f61635d32759f0fafd3403421c9c2a25c248f4a4dda5dd"
+
+[[files]]
+file = "config/openloader/data/Reborn Data/data/modern_beta/worldgen/biome/late_beta_taiga.json"
+hash = "f8b64e4d594bd4c5b9bd6a6a09f7bca9c057ac0f8df69db9ecddaf5e24b285c0"
 
 [[files]]
 file = "config/openloader/data/Reborn Data/data/modern_beta/worldgen/biome/old_caves.json"
@@ -2018,11 +2574,11 @@ hash = "510be84ad1c945b95c77bbcd13cd31d311167ff8783f65019039a746a6592ea8"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/crafting_tab_listing.json"
-hash = "6ab24c884fc50a7ae373734bcfcae5784cf810fe8e624bc649e3e6bce4756ed6"
+hash = "ef55bc622feef4f3287512e2cd1d3549006e973f4fa4bfef4aff153fcd1aac36"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/creative_tab_listing.json"
-hash = "0286b9c97ee6441654433f93e51d3dfacae8f14eab3a038f896c78c020c9023d"
+hash = "7987f79eb9d18115e289ed5ac9ed8308d497beecae94b2d82a78ca3b68e96e65"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/font/playstation_3.json"
@@ -2774,11 +3330,11 @@ hash = "97b2da6518ae6da13b70f983f5538f30be0928f25bb6431fcb72d11af528ecd4"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/textures/gui/title/panorama_day.png"
-hash = "c2933ce1903e82e3f20db845c898f6ce42697deb4bae0cb726dd2575bf45c891"
+hash = "1ba27b9fa466667b43671b0d023ff7b2c5e552b6871428cfb81530a484107f49"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/textures/gui/title/panorama_night.png"
-hash = "f4389e3e2a06cbc88d976ac6cd2cdee1f1a0779bb15fdf64d7b8a5ae8613de22"
+hash = "6030540de7710f167f9cc4a2ed798cfed638501622774b41f8e90d8a2f386d0a"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/tip_overrides/axes.json"
@@ -3614,7 +4170,7 @@ hash = "bff3349e454586f0646edb3d99acb9d08ee871b03e0bcab98d5a654f5eab576c"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/bricks.png"
-hash = "4ff200fb4d99e0d8db11035ca6b1d4774358a4f73aec8001968bcb52845fadf4"
+hash = "3840509821852f4f72735b039a7105d57f9aaafc8592f93ebd19220d59c6f817"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/chest_front.png"
@@ -3634,7 +4190,7 @@ hash = "6143c63be3d90b6a833042404291a00201b3917a614376ca465f780e990fed06"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/cobblestone.png"
-hash = "4b5808bedcba28626ddb2718475c8a3846366432cf350c142c094e30fef5e5a5"
+hash = "c627eb51c8ba56c691c4000686ebf26d3f0455e42e59867a1d7a0d731372bf23"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/cyan_wool.png"
@@ -3650,11 +4206,11 @@ hash = "6c7dee45b3594c3af0552e1204d45e9bdf1b380ede013d08c78bfc3e3f7e304b"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/dirt.png"
-hash = "478422aec49e4fb258ec07b7abd1acf8368073bffb2316c7af03c6138a9dd950"
+hash = "735a816519754ebd69342a2a45e7ff47eb63adbb413c91a244d6747b89b84ec7"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/dispenser_front.png"
-hash = "3f24efad9a16f7be28c1e48ad6d984ecf82260c11e39135a71ec17b793bc2478"
+hash = "ae529da20bc41f8313787f606bf2389686cafb431670c2a5d9e476521267c6ce"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/dispenser_front_old.png"
@@ -3665,8 +4221,16 @@ file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/b
 hash = "04aa07c5ff7f77fbaba92358c8a4de1b2d3b05151b17b7f7ea327757287fb919"
 
 [[files]]
+file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/dropper_front.png"
+hash = "f3d2d27f1e78e0deb2158f235208e7782345e496e8580a8c8785deedcf926f05"
+
+[[files]]
+file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/dropper_front_vertical.png"
+hash = "c61f4c659c7d1f8c74223e4f4abe5c0eda8d32287d6448b9eae97c2889885324"
+
+[[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/glowstone.png"
-hash = "850bf6f18a85eb0d1389f41e7ed57923a73d5eb59d9adbfdf364d7aaa4153df1"
+hash = "898a370ba057b0d593050e962e9a7e84916aa8304a6a20f9b1007b9aaa17e99d"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/gold_block.png"
@@ -3686,11 +4250,11 @@ hash = "b9b92c64655a23b99c9dda392ed5f8010474f5244cfd575ea4aa81d917ac4b80"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/grass_block_top.png"
-hash = "590c0f79d2f333313acb814c9f6e7c9bd9c91edc0b016b8fa8ce5f82aad38fed"
+hash = "a5791dc4bf800fc23890157a8f418166debfa9098017937872e3e01c2b138fd2"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/gravel.png"
-hash = "814daf6a8e1f4ed094038409b5b823f56fd5f8e95b4361bf476554e39a251e1e"
+hash = "dce514386cead015c95c496a2c951eab32fe42ad9502c44d312101afab98bc12"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/gray_wool.png"
@@ -3702,7 +4266,7 @@ hash = "80c1d30be3b1f84b77ce5bc5b767f915b74b8170a42792e54906c7df35672ce1"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/iron_block.png"
-hash = "ebebd5a756cdc32f4dc39488e3ee9dc8f7051331aee6d9cf1431440de4987eab"
+hash = "27164e7292072d7e59811c4b52c95381f3d9d60f08824b16b609b17fefc1cb10"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/iron_door_bottom.png"
@@ -3758,7 +4322,7 @@ hash = "e0f42fc9833a2cad4a812f747e2128c8807589b86ebedacb9bcd91a7e0f58793"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/mossy_cobblestone.png"
-hash = "002fb2f5f6329f68c6ef4d6594b03573cbc9f9601a350a7b3a8a21a9609868f4"
+hash = "69469e339ab45aec2c44b9cc954530e018d08845b8dbadb16a15234ec8e95e8d"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/netherrack.png"
@@ -3770,7 +4334,7 @@ hash = "f316dd9fb1902431dbb1d3d914c33d6b069b65d0439a8ca4655bd0108d73b016"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/oak_planks.png"
-hash = "e13d903bb1c1e2922dcc5de9d18c8abf6c8f777710d084e2f73abdae428f0005"
+hash = "7c05d5056fcbecbe4cb8cae99020fbc8c13b7926656d6d5fb958bdf8080d4166"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/oak_sapling.png"
@@ -3802,7 +4366,7 @@ hash = "91f7543c1ae22d76a8aea66cbf755d47b4c9909211c20a1c3df747bd76e8124c"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/sand.png"
-hash = "cc76366729c608958d873e133e434590f0594574d262ca30b355fdf52c1a1291"
+hash = "eee917e05702d5df6c481fe74aa5d96503b6f47668e33792fa1e1c84e802d18d"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/sandstone.png"
@@ -3814,7 +4378,7 @@ hash = "56e8fc015c36eb35782f70fe766eb447b3288f14fdd9e2f27e9d71f2fbadd6d7"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/spawner.png"
-hash = "6d79248451b0aaef4df8d13866e34efc8efc9ba102f8cf430ebacd5a66d2dd15"
+hash = "169b6afae4811a6deda261d17fedd20cd30f14d7a678f80b791cee9a0b299d46"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/sponge.png"
@@ -3830,7 +4394,7 @@ hash = "f9045998a74062efaa5dbc3da828378198749b97163aef468ee63743c28229b4"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/stone.png"
-hash = "134133d911c3594f017c4a9fc10b65abde4b5005c1cae3ecf2233a44f968cdff"
+hash = "3932ac923f1de480f1f2cb8d7f03529a8312b8c1a119e36c20a7081e2236e370"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/block/water_flow.png"
@@ -4005,6 +4569,10 @@ file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/i
 hash = "007593566f32a4f970d06fa9b77f3ab003ff03010459a52781ae797c053fa712"
 
 [[files]]
+file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/beef.png"
+hash = "f035bc8953ddf0304c2a7bdfb57d4f8d2344a00e66ccf10063cd874a52385944"
+
+[[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/bread.png"
 hash = "b147b1e95c54265282ae0d8257e5dca77f4bc2201e67d12f91f77a23e7674c54"
 
@@ -4015,6 +4583,10 @@ hash = "f43215dbe23339de874230cca18d75c7f7b86881d3518ad099515f9861f1f4fc"
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/chest_minecart.png"
 hash = "242398797667cc3c32d80ac74516441c1661953100a2e1e99f5a0ecff8a4a394"
+
+[[files]]
+file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/chicken.png"
+hash = "3a2308fdcddde2242b2e9ca5228da16702b5e878c382f56356a62a038215f8c0"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/coal.png"
@@ -4029,12 +4601,20 @@ file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/i
 hash = "6d69e1594b26d78a1114b15d94e4ecb2b45bdbe86590e45c38e3c48947af346a"
 
 [[files]]
+file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/cooked_beef.png"
+hash = "62c78f80a389f4feb52883e085d31da34f7cf3887f808e8fd5830808e381d0b6"
+
+[[files]]
+file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/cooked_chicken.png"
+hash = "51c632b8f399e296c53cc052cc5583f83c5b289d7a211271dea91ccd9b0568de"
+
+[[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/cooked_cod.png"
 hash = "1fb086271879541816b94924c46afa8d2fd4deceb54ccdfce0c0b62f5021272c"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/cooked_porkchop.png"
-hash = "f49c95bef5a5cf1bc84f94e81b9eb40c392287fb020d15879ef81e43dd8c6cfd"
+hash = "15f9db2039b2f17db43c69078c086202a16360567c85a1c138519392ed2fa83c"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/textures/item/cooked_salmon.png"
@@ -4490,10 +5070,6 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "34d8808403d641935e0803cd2b83a33689cdb351d2614e990a2c9268958a6a19"
 metafile = true
-
-[[files]]
-file = "resourcepacks/TU0 Crafting Icons Addon.zip"
-hash = "df9df6f49b2f86eb9b438fc27865ceb39e06aaffee1e26124c216116aa10b93d"
 
 [[files]]
 file = "resourcepacks/Xbox 360 Title Addon.zip"

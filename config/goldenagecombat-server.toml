@@ -1,17 +1,17 @@
 #Boost sharpness enchantment to 1.25 damage points per level instead of just 0.5.
 boost_sharpness = false
 #Expand all entity hitboxes by 10%, making hitting a target possible from a slightly greater range and with much increased accuracy.
-inflate_hitboxes = false
+inflate_hitboxes = true
 #Is the sweeping edge enchantment required to perform a sweep attack.
 require_sweeping_edge = true
 #Attacking will no longer stop the player from sprinting. Very useful when swimming, so you can fight underwater without being stopped on every hit.
-sprint_attacks = false
+sprint_attacks = true
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
-critical_hits_while_sprinting = false
+critical_hits_while_sprinting = true
 #Completely remove the attack cooldown as if it never even existed in the first place.
 remove_attack_cooldown = true
 #Makes knockback stronger towards targets not on the ground (does not apply when in water).
-upwards_knockback = false
+upwards_knockback = true
 #Only damage tools by 1 durability instead of 2 when attacking. Apply the same logic to swords when harvesting blocks.
 no_item_durability_penalty = true
 #Allow using the "Attack" button while the "Use Item" button is held for mining blocks. Does not make a lot of sense, but it used to be a feature in old pvp.
@@ -19,7 +19,7 @@ interact_while_using = true
 #Give Regeneration V and Absorption I instead of Regeneration II and Absorption IV after consuming a notch apple.
 notch_apple_effects = true
 #Health only regenerates every 4 seconds, while requiring 18 or more food points. Surplus saturation does not yield quick health regeneration.
-legacy_food_mechanics = false
+legacy_food_mechanics = true
 #Player is knocked back by attacks which do not cause any damage, such as when hit by snowballs, eggs, and fishing rod hooks.
 weak_attacks_knock_back_players = true
 
@@ -46,7 +46,7 @@ weak_attacks_knock_back_players = true
 	#Hooking entities with a fishing rod causes only 3 damage points to the rod instead of 5.
 	slower_breaking = true
 	#Fishing rod deals knockback upon hitting an entity.
-	cause_knockback = false
+	cause_knockback = true
 	#Entities reeled in using a fishing rod are slightly launched upwards.
-	launch_entities = false
+	launch_entities = true
 

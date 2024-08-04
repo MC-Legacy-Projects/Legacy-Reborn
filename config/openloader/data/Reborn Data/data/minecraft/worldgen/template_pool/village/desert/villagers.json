@@ -1,0 +1,5 @@
+{
+  "name": "minecraft:village/desert/villagers",
+  "fallback": "minecraft:empty",
+  "elements": []
+}

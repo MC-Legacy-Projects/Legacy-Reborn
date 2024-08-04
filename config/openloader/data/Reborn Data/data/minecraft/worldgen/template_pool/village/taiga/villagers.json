@@ -1,0 +1,5 @@
+{
+  "name": "minecraft:village/taiga/villagers",
+  "fallback": "minecraft:empty",
+  "elements": []
+}
