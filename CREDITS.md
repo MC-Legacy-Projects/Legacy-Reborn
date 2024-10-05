@@ -2,8 +2,9 @@
 
 ## Legacy Projects
 
-- Permdog99 (Original Creator)
-- Agari (Helper & Maintainer)
+- Permdog99 (Original Creator & Developer)
+- Agari (Developer)
+- MistuIsSleepy (Playtester)
 
 ## Mod Developers
 
@@ -27,6 +28,7 @@
 - Agent Ruru for supplying the old Xbox 360 Intro .pngs and creating the in-game logo!
 - Cjnator38 for updating the title logo, creating new controller icons (X360 and XONE), and helping with sound design! Also for supplying the assets needed to create the optional resource packs!
 - Wilyicaro for helping with the Xbox 360 controller icons!
+- QLX Studios for allowing the use of Legacy Skin Packs!
 
 ## Community Discord
 

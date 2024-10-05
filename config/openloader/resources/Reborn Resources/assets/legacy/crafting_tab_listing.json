@@ -29,7 +29,7 @@
       "tnt": ["tnt"],
       "fishing_rod": ["fishing_rod"],
       "archery": ["bow","arrow"],
-      "container": ["bucket"],
+      "container": ["bucket", "bowl"],
       "sword": ["wooden_sword","stone_sword","iron_sword","diamond_sword","golden_sword"],
       "lighting": ["torch","glowstone","jack_o_lantern"],
       "location": ["clock","compass","map"]
@@ -39,6 +39,7 @@
     "icon": "legacy:icon/food",
     "displayName": "legacy.container.tab.food",
     "listing": [
+      {"group":"mushroom_stew","recipes": ["mushroom_stew"]},
       {"group":"cookie","recipes": ["cookie"]},
       {"group":"cake","recipes": ["cake"]},
       {"group":"sugar","recipes": ["sugar_from_sugar_cane"]},
@@ -64,6 +65,7 @@
       {"group":"repeater","recipes": ["repeater"]},
       {"group":"button","recipes": ["stone_button"]},
       {"group": "pressure_plate", "recipes": ["oak_pressure_plate","stone_pressure_plate"]},
+      {"group":"dispenser","recipes": ["dispenser"]},
       {"group":"note_block","recipes": ["note_block"]}
     ]
   },
@@ -83,9 +85,9 @@
     "displayName": "legacy.container.tab.decoration",
     "listing": {
       "wool": ["dye_orange_wool","dye_magenta_wool","dye_light_blue_wool","dye_yellow_wool","dye_lime_wool","dye_pink_wool","dye_gray_wool","dye_light_gray_wool","dye_cyan_wool","dye_purple_wool","blue_wool","brown_wool","dye_green_wool","dye_red_wool","black_wool","white_wool","white_wool_from_string"],
-      "dye": ["yellow_dye_from_dandelion","red_dye_from_poppy","pink_dye_from_red_white_dye","orange_dye","lime_dye","gray_dye","light_gray_dye_from_gray_white_dye","light_gray_dye_from_black_white_dye","light_blue_dye_from_blue_white_dye","purple_dye","magenta_dye_from_purple_and_pink","magenta_dye_from_blue_red_pink","magenta_dye_from_blue_red_white_dye","light_blue_dye_from_blue_white_dye"],
+      "dye": ["yellow_dye_from_dandelion","red_dye_from_poppy","bone_meal","pink_dye_from_red_white_dye","orange_dye","lime_dye","gray_dye","light_gray_dye_from_gray_white_dye","light_gray_dye_from_black_white_dye","light_blue_dye_from_blue_white_dye","cyan_dye","purple_dye","magenta_dye_from_purple_and_pink","magenta_dye_from_blue_red_pink","magenta_dye_from_blue_red_white_dye","lapis_lazuli"],
       "compact": ["gold_block","iron_block","diamond_block","lapis_block"],
-      "unboxing": ["gold_ingot_from_gold_block","iron_ingot_from_iron_block","bone_meal","lapis_lazuli"],
+      "unboxing": ["gold_ingot_from_gold_block","iron_ingot_from_iron_block"],
       "diamond": ["diamond"],
       "jukebox": ["jukebox"],
       "paper": ["paper"],

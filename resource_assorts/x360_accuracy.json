@@ -1,0 +1,13 @@
+{
+  "description": "Almost 100% Accuracy to X360 TU0",
+  "icon": "legacy:icon/xbox360",
+  "background": "legacy:icon/background",
+  "packs": [
+    "programmer_art",
+    "resources/Reborn Resources",
+    "file/Xbox 360 Title Addon.zip",
+    "file/TU0 Crafting Icons Addon.zip"
+  ],
+  "id": "x360_accuracy",
+  "name": "Xbox 360 Accuracy"
+}

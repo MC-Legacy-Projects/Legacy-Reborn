@@ -1,0 +1,13 @@
+name = "Legacy Skin Packs"
+filename = "Legacy-Skin-Packs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IU7pUM86/versions/LprNQrjh/Legacy-Skin-Packs.zip"
+hash-format = "sha1"
+hash = "34f872b4a0f5237f658388067f5ebba0a54fc284"
+
+[update]
+[update.modrinth]
+mod-id = "IU7pUM86"
+version = "LprNQrjh"

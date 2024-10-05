@@ -1,0 +1,7 @@
+name = "x360-title"
+filename = "Xbox 360 Title Addon.zip"
+
+[download]
+url = "https://lceprojects.com/downloads/Xbox%20360%20Title%20Addon.zip"
+hash-format = "sha256"
+hash = "2760e48e6c1da8389362a8fc65f67b378f7ab8e7577add99523ec7cfc6ad04bc"

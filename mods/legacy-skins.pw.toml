@@ -1,0 +1,13 @@
+name = "Legacy Skins"
+filename = "legacyskins-1.2.5+fabric+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4UNJZ4cX/versions/1T4ZGksc/legacyskins-1.2.5%2Bfabric%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "6c0941dcfddfad2ed3a9a87ab8dc67461e1ea36d28fe4f51c5ec1768c47a54b0f14897381ca569c33fbf092a35060c1f6b65f59459cca10712ed7a7869df308e"
+
+[update]
+[update.modrinth]
+mod-id = "4UNJZ4cX"
+version = "1T4ZGksc"

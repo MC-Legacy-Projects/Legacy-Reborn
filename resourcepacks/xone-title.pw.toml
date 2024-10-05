@@ -1,0 +1,7 @@
+name = "xone-title"
+filename = "Xbox One Title Addon.zip"
+
+[download]
+url = "https://lceprojects.com/downloads/Xbox%20One%20Title%20Addon.zip"
+hash-format = "sha256"
+hash = "cdcaeb6fff540667fddcfa33ff470d187dfe0230d41bd7196035dbb296d836c1"

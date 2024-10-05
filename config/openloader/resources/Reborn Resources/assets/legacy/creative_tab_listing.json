@@ -20,13 +20,13 @@
   "legacy.container.tab.materials": { 
     "icon": "legacy:icon/materials",
     "listing": [
-      "minecraft:coal", "minecraft:charcoal", "minecraft:diamond", "minecraft:iron_ingot", "minecraft:gold_ingot", "minecraft:brick", "minecraft:stick", "minecraft:string", "minecraft:feather", "minecraft:flint", "minecraft:leather", "minecraft:gunpowder", "minecraft:clay_ball", "minecraft:glowstone_dust", "minecraft:wheat_seeds", "minecraft:wheat", "minecraft:sugar_cane", "minecraft:egg", "minecraft:sugar", "minecraft:red_dye", "minecraft:orange_dye", "minecraft:yellow_dye", "minecraft:lime_dye", "minecraft:light_blue_dye", "minecraft:cyan_dye", "minecraft:lapis_lazuli", "minecraft:purple_dye", "minecraft:magenta_dye", "minecraft:pink_dye", "minecraft:bone_meal", "minecraft:light_gray_dye", "minecraft:gray_dye", "minecraft:ink_sac", "minecraft:green_dye", "minecraft:cocoa_beans"
+      "minecraft:coal", "minecraft:charcoal", "minecraft:diamond", "minecraft:iron_ingot", "minecraft:gold_ingot", "minecraft:brick", "minecraft:stick", "minecraft:bowl", "minecraft:string", "minecraft:feather", "minecraft:flint", "minecraft:leather", "minecraft:gunpowder", "minecraft:clay_ball", "minecraft:glowstone_dust", "minecraft:wheat_seeds", "minecraft:wheat", "minecraft:sugar_cane", "minecraft:egg", "minecraft:sugar", "minecraft:red_dye", "minecraft:orange_dye", "minecraft:yellow_dye", "minecraft:lime_dye", "minecraft:light_blue_dye", "minecraft:cyan_dye", "minecraft:lapis_lazuli", "minecraft:purple_dye", "minecraft:magenta_dye", "minecraft:pink_dye", "minecraft:bone_meal", "minecraft:light_gray_dye", "minecraft:gray_dye", "minecraft:ink_sac", "minecraft:green_dye", "minecraft:cocoa_beans"
     ]
   },
   "legacy.container.tab.food": {
     "icon": "legacy:icon/food",
     "listing": [
-      "minecraft:apple", "minecraft:golden_apple", "minecraft:bread", "minecraft:cake", "minecraft:cookie", "minecraft:cooked_cod", "minecraft:cod", "minecraft:cooked_porkchop", "minecraft:porkchop"
+      "minecraft:apple", "minecraft:golden_apple", "minecraft:mushroom_stew", "minecraft:bread", "minecraft:cake", "minecraft:cookie", "minecraft:cooked_cod", "minecraft:cod", "minecraft:cooked_porkchop", "minecraft:porkchop"
     ]
   },
   "legacy.container.tab.tools_and_armour": {
@@ -38,7 +38,7 @@
   "legacy.container.tab.egg": {
     "icon": "legacy:icon/egg",
     "listing": [
-      "minecraft:creeper_spawn_egg", "minecraft:skeleton_spawn_egg", "minecraft:spider_spawn_egg", "minecraft:zombie_spawn_egg", "minecraft:slime_spawn_egg", "minecraft:ghast_spawn_egg", "minecraft:zombified_piglin_spawn_egg", "minecraft:pig_spawn_egg", "minecraft:sheep_spawn_egg", "minecraft:cow_spawn_egg", "minecraft:chicken_spawn_egg", "minecraft:wolf_spawn_egg", "minecraft:snow_golem_spawn_egg"
+      "minecraft:creeper_spawn_egg", "minecraft:skeleton_spawn_egg", "minecraft:spider_spawn_egg", "minecraft:zombie_spawn_egg", "minecraft:slime_spawn_egg", "minecraft:ghast_spawn_egg", "minecraft:zombified_piglin_spawn_egg", "minecraft:pig_spawn_egg", "minecraft:sheep_spawn_egg", "minecraft:cow_spawn_egg", "minecraft:chicken_spawn_egg", "minecraft:wolf_spawn_egg"
     ]
   },
   "legacy.container.tab.misc": { 

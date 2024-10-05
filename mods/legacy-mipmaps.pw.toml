@@ -1,13 +1,13 @@
 name = "Legacy Mipmaps"
-filename = "legacy-mipmaps-1.2.1.jar"
+filename = "legacy-mipmaps-1.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/27fXQT3n/versions/qrNqYZ4I/legacy-mipmaps-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/27fXQT3n/versions/jtGTI7JF/legacy-mipmaps-1.2.2.jar"
 hash-format = "sha1"
-hash = "449fedd2d8144d851e9127730e6a3244b1289705"
+hash = "51101a68e839f9b0c591fcacf0fb6c41d7b77ae7"
 
 [update]
 [update.modrinth]
 mod-id = "27fXQT3n"
-version = "qrNqYZ4I"
+version = "jtGTI7JF"

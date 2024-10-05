@@ -1,0 +1,7 @@
+name = "tu0-crafting-icons"
+filename = "TU0 Crafting Icons Addon.zip"
+
+[download]
+url = "https://lceprojects.com/downloads/TU0%20Crafting%20Icons%20Addon.zip"
+hash-format = "sha256"
+hash = "df9df6f49b2f86eb9b438fc27865ceb39e06aaffee1e26124c216116aa10b93d"

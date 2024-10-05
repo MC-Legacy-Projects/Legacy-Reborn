@@ -1,0 +1,14 @@
+{
+  "description": {
+    "translate": "legacy.menu.assorts.minecraft.description"
+  },
+  "icon": "legacy:icon/minecraft",
+  "background": "legacy:icon/background",
+  "packs": [
+    "programmer_art"
+  ],
+  "id": "minecraft",
+  "name": {
+    "translate": "legacy.menu.assorts.minecraft"
+  }
+}

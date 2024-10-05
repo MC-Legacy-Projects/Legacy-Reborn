@@ -1,5 +1,5 @@
 {
- "legacy.reborn.version": "TU1 1.3.0",
+ "legacy.reborn.version": "TU1 1.3.2",
  "block.legacy.shrub": "Shrub",
  "legacy.menu.play_game": "Play Game",
  "options.language": "Languages",
@@ -193,7 +193,7 @@
  "options.resourcepack": "Resource Packs",
  "legacy.connect.initializing": "Initializing server",
  "connect.connecting": "Connecting",
- "legacy.loading_spawn_area": "Loading spawn area",
+ "legacy.loading_spawn_area": "Generating spawn area",
  "legacy.finding_seed": "Finding seed for the world generator",
  "createWorld.tab.more.title" : "More Options",
  "createWorld.tab.world.title": "World Options",
@@ -641,7 +641,7 @@
  "block.minecraft.coal_ore.tip": "Can be mined with a pickaxe to collect coal.",
  "block.minecraft.log.tip": "Chopped using an axe, and can be crafted into planks or used as a fuel.",
  "block.minecraft.leaves.tip": "When broken, sometimes drops a sapling which can be replanted to grow into a tree.",
- "block.minecraft.dead_bush.tip": "Can be used as decoration."
+ "block.minecraft.dead_bush.tip": "Can be used as decoration.",
  "block.minecraft.grass.tip": "Sometimes produces wheat seeds when broken.",
  "block.minecraft.sponge.tip": "Can absorb water nearby, turning into a wet sponge in the process.",
  "block.minecraft.wet_sponge.tip": "Can be dried in a furnace, allowing the sponge to be reused.",
@@ -688,7 +688,7 @@
  "block.minecraft.glowstone.tip": "Used to create brighter light than torches. Melts snow/ice and can be used underwater.",
  "block.minecraft.wool.tip": "Collected from sheep, and can be colored with dyes.",
  "block.minecraft.lapis_ore.tip": "Can be mined with a stone pickaxe or better to collect lapis lazuli.",
- "block.minecraft.lapis_block.tip": "A compact way of storing Lapis Lazuli."
+ "block.minecraft.lapis_block.tip": "A compact way of storing Lapis Lazuli.",
  "block.minecraft.dispenser.tip": "Used to hold and shoot out items in a random order when given a Redstone charge.",
  "block.minecraft.note_block.tip": "Plays a note when triggered. Hit it to change the pitch of the note. Placing this on top of different blocks will change the type of instrument.",
  "block.minecraft.cake.tip": "Restores 1 §f\uD83C\uDF56§r. Can be used 7 times.",
