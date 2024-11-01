@@ -5,7 +5,10 @@
   "icon": "legacy:icon/minecraft",
   "background": "legacy:icon/background",
   "packs": [
-    "programmer_art"
+    "vanilla",
+    "fabric",
+    "programmer_art",
+    "resources/Reborn Resources"
   ],
   "id": "minecraft",
   "name": {

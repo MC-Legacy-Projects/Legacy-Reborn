@@ -3,6 +3,8 @@
   "icon": "legacy:icon/xbox360",
   "background": "legacy:icon/background",
   "packs": [
+    "vanilla",
+    "fabric",
     "programmer_art",
     "resources/Reborn Resources",
     "file/Xbox 360 Title Addon.zip",
