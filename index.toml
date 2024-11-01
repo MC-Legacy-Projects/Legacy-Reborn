@@ -2075,7 +2075,7 @@ hash = "af1a2031355f2e9bde3f966b7a9407301db9cf6e4fa36a69aecef235aeb6f427"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/lang/en_us.json"
-hash = "6189dc389b9417e08b56f6a9aef7a1d577a3ec59c9f3b5db8c4239616edb3f69"
+hash = "0adb5a3340c16ad071b5739b07d003e637a490e8ed466c50f531b1a7373645cd"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/legacy/lang/es_mx.json"
@@ -7935,7 +7935,7 @@ hash = "0742ea2c19425cd0d71e322f58be595375335a4e6649d18e57d859d74cbf32d1"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/lang/en_us.json"
-hash = "a39e6514c1bd257d1d29c5fa67e55f9126882078adde5928d53633b9418024e0"
+hash = "fe694db810632e25c06b871bfe84d693bb4536f931678b9d10a3260569be1adc"
 
 [[files]]
 file = "config/openloader/resources/Reborn Resources/assets/minecraft/models/block/birch_log_horizontal.json"
@@ -9531,11 +9531,11 @@ hash = "35b372fecceafc66a82e09d1ce1665f51325c5465316e5a4e098362324fc663d"
 
 [[files]]
 file = "resource_assorts/minecraft.json"
-hash = "f313a6977cb9746b39c5ab14dbdb5b63d3fe3bf21a60bb5aebd8828f637f70c3"
+hash = "1ef1b2ac41e8e552c5291460dcb2edcbd9ae2991d8b723fe03e058547af67a8a"
 
 [[files]]
 file = "resource_assorts/x360_accuracy.json"
-hash = "5f1ff5d9c02b3241f7d8af5160634b418cbe86347cefd4e76a96e25ef44945da"
+hash = "f7229e44020cd7569a0d481a120ce3a781748a0266620d63e698ca158f47c7ac"
 
 [[files]]
 file = "resourcepacks/tu0-crafting-icons.pw.toml"
