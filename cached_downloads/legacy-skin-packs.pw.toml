@@ -3,11 +3,11 @@ filename = "Legacy-Skin-Packs.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IU7pUM86/versions/LprNQrjh/Legacy-Skin-Packs.zip"
-hash-format = "sha1"
-hash = "34f872b4a0f5237f658388067f5ebba0a54fc284"
+url = "https://cdn.modrinth.com/data/IU7pUM86/versions/2fXcbCsT/Legacy-Skin-Packs.zip"
+hash-format = "sha512"
+hash = "15a76926d23d14e509599c967841830442194d38e475524ebd9a4e675fbc1e59ccb8d4560d7e69edff83df7f4793b602096d22deaa29a5c6ce043954ee0a16ef"
 
 [update]
 [update.modrinth]
 mod-id = "IU7pUM86"
-version = "LprNQrjh"
+version = "2fXcbCsT"

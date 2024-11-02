@@ -1,15 +1,15 @@
 name = "Legacy Reborn"
 author = "Legacy Projects"
-version = "TU1-1.3.3"
+version = "TU1-1.3.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "76bea0b8c58418a1b73c7057e452973471f83c230788d913642ba6582396e423"
+hash = "779c9b718180f591b44664ce115adfb21b3866dee9f97a4e9bff771bdee9a0bd"
 
 [versions]
-fabric = "0.15.11"
+fabric = "0.16.9"
 minecraft = "1.20.4"
 
 [options]
